@@ -17,7 +17,7 @@ const Technology = (props) => {
 				<div className="container right">
 					<div className="timeline-card">
 						<h3>Frameworks</h3>
-						<p>[React] [React Native] [Express]</p>
+						<p>[React] [React-Native] [Express]</p>
 					</div>
 				</div>
 				<div className="container left">
